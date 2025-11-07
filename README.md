@@ -9,10 +9,6 @@ Personal portfolio website hosted on GitHub Pages.
 - Clean and professional layout
 - Mobile-friendly interface
 
-## Setup
-
-This site is automatically deployed via GitHub Pages. Simply push changes to the `main` branch and they will be live at `https://cyr-ch.github.io`.
-
 ## Files
 
 - `index.html` - Main landing page
